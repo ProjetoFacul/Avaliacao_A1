@@ -128,6 +128,4 @@ Produto: Arroz  |  Preço: R$ 12.50
 python nome_do_arquivo.py
 ```
 
----
 
-Se quiser, posso gerar também os arquivos `.py` contendo cada exercício!
